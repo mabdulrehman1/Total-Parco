@@ -1,9 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
+import DataTable from './compponents/UserManagement';
 import LoginForm from './compponents/LoginForm';
 function App() {
   return (
-    <LoginForm />
+    // <LoginForm />
+    <DataTable />
   );
 }
 
